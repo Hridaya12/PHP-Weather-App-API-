@@ -1,1 +1,1 @@
-# PHP-Weather-App-API-
+This Weather App provides users with real-time weather information for a given location. It fetches data from reliable sources to offer accurate weather updates. The app displays essential weather parameters such as temperature, pressure, humidity, wind speed, and direction.
